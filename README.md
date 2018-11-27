@@ -9,7 +9,7 @@ Requirements:
  
  commands for running the script:
  1) For Import:
-    python3.6 main.py -i import -to [import_tablename]
+    python3.6 main.py -option import -to [import_tablename]
     
  2) For Migration:
-    python3.6 main.py -m migrate -from[import_tablename] -to [migtrate_tablename]   
+    python3.6 main.py -option -from [import_tablename] -to [migtrate_tablename]   
